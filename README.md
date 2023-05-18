@@ -15,7 +15,7 @@
 <img align="center" alt="laturb.py" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="laturb.js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 <img align="center" alt="laturb.ts" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="right" alt="laturb.gif" height="180" width="200" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
+<img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 </div>
 
 ##
