@@ -25,5 +25,5 @@
 <a href="https://discord.gg/AczYUKj9t3" target="_blank"><img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://instagram/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://t.me/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-<a href="laturbgostoso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="malito:laturbgostoso@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
