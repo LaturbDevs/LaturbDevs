@@ -27,9 +27,5 @@
 <img align="center" alt="laturb.js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div><br>
-<div>
- <p align="center" dir="auto"><b>Visitors Count</b></p>
- <img align="center" src="https://profile-counter.glitch.me/{LaturbDevs}/count.svg" style="max-width: 100%;">
  </div>
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=006f4c&amp;height=120&amp;section=footer" style="max-width: 100%;">
