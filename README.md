@@ -5,7 +5,7 @@
 - 🎓 Estudando TypeScript
 <img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 
-### Minhas Redes Sociais (meio de contato)
+### Minhas Redes Sociais
 <div>
 <a href="https://www.youtube.com/channel/UC8sSa7j_vRDC3L3bbb-os4A" target="_blank"><img src="https://img.shields.io/badge/Youtube-B40000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="https://discord.gg/AczYUKj9t3" target="_blank"><img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
