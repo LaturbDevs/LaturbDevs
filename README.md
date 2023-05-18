@@ -1,8 +1,8 @@
 ### Olá, meu nome é Vitor Almeida (LaturbDevs) 👨‍💻 
-
+- 📆 Tenho 17 anos
 - 💼 Desenvolvedor na área de front-end
 - 👨‍🎓 Finalizando estudos do ensino médio 2/3
-- 🎓  Estudando TypeScript
+- 🎓 Estudando TypeScript
 
 <div align="center">
 <a href="htpps://github.com/LaturbDevs">
