@@ -29,6 +29,4 @@
 <img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
  
- ![snake_elf](https://github.com/LaturbDevs/LaturbDevs/blob/output/github-contribution-grid-snake.svg)
- 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=006f4c&amp;height=120&amp;section=footer" style="max-width: 100%;">
