@@ -2,7 +2,7 @@
 - 📆 Tenho 17 anos
 - 💼 Desenvolvedor na área de front-end
 - 👨‍🎓 Finalizando estudos do ensino médio 2/3
-- 🎓 Estudando Node.js
+- 🎓 Estudando Node / React
 <img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 
 ## Minhas Redes Sociais:
@@ -17,15 +17,20 @@
 <a href="htpps://github.com/LaturbDevs">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LaturbDevs&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=006f4c&amp;icon_color=006f4c&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaturbDevs&amp;layout=compact&amp;hide_border=true&amp;title_color=006f4c&amp;text_color=ff91a4&amp;bg_color=0d1117" style="max-width: 100%;">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=LaturbDevs&amp;bg_color=0d1117&amp;color=006f4c&amp;line=006f4c&amp;point=006f4c&amp;area=true&amp;hide_border=true" style="max-width: 100%;">
 </div>
 
- ### Tecnologias usadas no meu dia a dia:
+ ### Linguagens usadas no meu dia a dia:
 
 <div style="display: inline_block">
-<img align="center" alt="laturb.html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="laturb.css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="laturb.js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="laturb.html" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img align="center" alt="laturb.css" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img align="center" alt="laturb.js" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
  </div>
+ 
+ ### Linguagens sendo estudadas no momento:
+ 
+ 
+<div style="display: inline_block">
+<img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="laturb.node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D">
