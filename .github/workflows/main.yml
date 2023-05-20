@@ -14,6 +14,7 @@ jobs:
       - uses: actions/setup-node@v1
         id: snake-gif
         with:
+         node-version: '10.x'
           github_user_name: LaturbDevs
           svg_out_path: dist/github-contribution-grid-snake.svg
 
