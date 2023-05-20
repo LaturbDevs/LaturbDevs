@@ -19,18 +19,22 @@
 <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaturbDevs&amp;layout=compact&amp;hide_border=true&amp;title_color=006f4c&amp;text_color=ff91a4&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
 
-- ### Linguagens usadas no meu dia a dia:
+- ### Tecnologias usadas no meu dia a dia:
 <div style="display: inline_block">
 <img align="center" alt="laturb.html" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img align="center" alt="laturb.css" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img align="center" alt="laturb.js" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
+ <img align="center" alt="laturb.git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=f75629">
+ <img align="center" alt="laturb.bs" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&logoColor=af4dff">
+ 
  </div>
  
 - ### Tenho um breve conhencimento nas linguagens:
 <div style="display inline_block">
 <img align="center" alt="laturb.java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=B40000">
-<img align="center" alt="laturb.py" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C">
+<img align="center" alt="laturb.kt" src="https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=af4dff">
+<img align="center" alt="laturb.py" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
 </div>
  
 - ### Linguagens sendo estudadas no momento:
