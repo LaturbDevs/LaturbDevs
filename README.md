@@ -13,6 +13,7 @@
 <a href="https://tiktok.com/@laturbnocry" target="_blank"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white"><br>
 <a href="https://linkedin.com/in/vitor-almeida-devs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DA1F2">
 <a href="https://t.me/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=1DA1F2">
+<a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA">
 <a href="mailto:brjvamkkvv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
 </div>
 <div>
