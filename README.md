@@ -33,7 +33,7 @@
  
  </div>
  
-- ### Tenho um breve conhencimento nas linguagens:
+- ### Tenho um breve conhecimento nas linguagens:
 <div style="display inline_block">
 <img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
 <img align="center" alt="laturb.java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=B40000">
