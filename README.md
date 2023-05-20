@@ -35,9 +35,10 @@
 <img align="center" alt="laturb.java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=B40000">
 <img align="center" alt="laturb.kt" src="https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=af4dff">
 <img align="center" alt="laturb.py" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
+<img align="center" alt="laturb.c++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
 </div>
  
-- ### Linguagens sendo estudadas no momento:
+- ### Estudando no momento:
 <div style="display: inline_block">
 <img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="laturb.node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D">
