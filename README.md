@@ -27,7 +27,7 @@
 <img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
  </div>
  
-- ### Tenho um breve conhencimento nas seguintes linguagens:
+- ### Tenho um breve conhencimento nas linguagens:
 <div style="display inline_block">
 <img align="center" alt="laturb.java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=B40000">
 <img align="center" alt="laturb.py" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=14354C">
