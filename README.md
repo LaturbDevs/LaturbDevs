@@ -46,4 +46,3 @@
 <img align="center" alt="laturb.react" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="laturb.node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D">
 </div>
- 
