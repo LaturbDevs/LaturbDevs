@@ -1,4 +1,4 @@
-name: Snake Commit
+name: Smake Commit
 
 on:
   schedule: # execute every 12 hours
@@ -8,13 +8,12 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: windows-latest
+    runs-on: windowns-latest
     steps:
       # Snake Animation
-      - uses: actions/setup-node@v1
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-         node-version: '10.x'
           github_user_name: LaturbDevs
           svg_out_path: dist/github-contribution-grid-snake.svg
 
