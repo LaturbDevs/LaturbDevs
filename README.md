@@ -1,11 +1,11 @@
-## Olá, meu nome é Vitor Almeida (LaturbDevs) 👨‍💻 
+- ## Olá, meu nome é Vitor Almeida (LaturbDevs) 👨‍💻 
 - 📆 Tenho 17 anos
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Finalizando estudos do ensino médio 2/3
 - 🎓 Estudando Node / React
 <img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 
-## Redes Sociais e Meios de contato:
+- ## Redes Sociais e Meios de contato:
 <div>
 <a href="https://www.youtube.com/channel/UC8sSa7j_vRDC3L3bbb-os4A" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=B40000">
 <a href="https://instagram.com/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
