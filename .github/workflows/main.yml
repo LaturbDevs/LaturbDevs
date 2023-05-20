@@ -7,8 +7,8 @@ on:
 
 jobs:
   build:
-    name: Windowns
-    runs-on: ubuntu-latest
+    name: Jobs to update datas
+    runs-on: windows-latest
     steps:
       # Snake Animation
       - uses: Platane/snk@master
