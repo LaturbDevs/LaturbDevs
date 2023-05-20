@@ -5,19 +5,24 @@
 - 🎓 Estudando Node / React
 <img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 
-## Minhas Redes Sociais:
+## Onde pode me encontrar:
+#### Redes Sociais:
 <div>
-<a href="https://www.youtube.com/channel/UC8sSa7j_vRDC3L3bbb-os4A" target="_blank"><img src="https://img.shields.io/badge/Youtube-B40000?style=for-the-badge&logo=youtube&logoColor=white">
-<a href="https://twitter.com/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-<a href="https://instagram.com/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<a href="https://t.me/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</div><br>
+<a href="https://www.youtube.com/channel/UC8sSa7j_vRDC3L3bbb-os4A" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=B40000">
+<a href="https://instagram.com/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
+<a href="https://twitter.com/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
+ 
+ #### Meios de contato:
+<a href="https://linkedin.com/in/vitor-almeida-devs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DA1F2">
+<a href="https://t.me/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=1DA1F2">
+<a href="mailto:brjvamkkvv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
+</div>
 <div>
 <a href="htpps://github.com/LaturbDevs">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LaturbDevs&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=006f4c&amp;icon_color=006f4c&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;">
 <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaturbDevs&amp;layout=compact&amp;hide_border=true&amp;title_color=006f4c&amp;text_color=ff91a4&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
-
+ 
 - ### Tecnologias usadas no meu dia a dia:
 <div style="display: inline_block">
 <img align="center" alt="laturb.html" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
