@@ -7,13 +7,9 @@
 
 - ## Redes Sociais e Meios de contato:
 <div>
-<a href="https://www.youtube.com/channel/UC8sSa7j_vRDC3L3bbb-os4A" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=B40000">
 <a href="https://instagram.com/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
-<a href="https://twitter.com/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2">
-<a href="https://tiktok.com/@laturbnocry" target="_blank"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white"><br>
 <a href="https://linkedin.com/in/vitor-almeida-devs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DA1F2">
 <a href="https://t.me/Laturb7zf" target="_blank"><img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=1DA1F2">
-<a href="https://discord.io/LaturbDevs" target="_blank"><img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA">
 <a href="mailto:brjvamkkvv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
 </div>
 <div>
