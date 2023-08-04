@@ -24,13 +24,13 @@
 <img align="center" alt="laturb.html" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
 <img align="center" alt="laturb.css" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img align="center" alt="laturb.js" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
 <img align="center" alt="laturb.git" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=f75629">
  <img align="center" alt="laturb.bs" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&logoColor=af4dff">
  </div>
  
 - ### Tenho um breve conhecimento nas linguagens:
 <div style="display inline_block">
-<img align="center" alt="laturb.ts" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC">
 <img align="center" alt="laturb.java" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=B40000">
 <img align="center" alt="laturb.py" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
 <img align="center" alt="laturb.c++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
