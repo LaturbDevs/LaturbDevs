@@ -7,7 +7,7 @@
 
 - ## Redes Sociais e Meios de contato:
 <div>
-<a href="https://instagram.com/laturb7zf" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
+<a href="https://instagram.com/javaehruim" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F">
 <a href="https://discord.com/users/558514752947617792" target="_blank"><img src="https://img.shields.io/badge/discord-0D1117?style=for-the-badge&logo=discord&logoColor=7289DA">
 <a href="https://linkedin.com/in/vitor-almeida-devs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1DA1F2">
 <a href="mailto:brjvamkkvv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836">
