@@ -1,8 +1,8 @@
-- ## Olá, meu nome é Vitor Almeida (LaturbDevs) 👨‍💻 
+- ## Olá, meu nome é Vitor Almeida (LaturbDevs) 👨🏽‍💻
 - 📆 Tenho 19 anos
 - 💼 Desenvolvedor back-end
-- 🧑🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 🎓 Estudando Node / React / MySql
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 📚 Estudando Node / React / MySql
 <img align="right" alt="laturb.gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/1108661950222712835/1108668242500800522/20230518_051031.gif">
 
 - ## Redes Sociais e Meios de contato:
