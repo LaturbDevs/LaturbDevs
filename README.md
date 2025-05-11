@@ -1,4 +1,4 @@
- ## Olá, meu nome é Vitor Almeida (LaturbDevs) 👨🏽‍💻
+ ## Olá, meu nome é Vitor Almeida (Laturb7zf) 👨🏽‍💻
 - 📆 Tenho 19 anos
 - 💼 Desenvolvedor back-end
 - 🎓 Software Engineering Student
